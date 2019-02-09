@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For QuadratureEncoder Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QuadratureEncoder       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encoderCount	      	KEYWORD2
+getEncoderCount			KEYWORD2
+setEncoderCount	      	KEYWORD2
+getEncoderErrorCount	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_NUM_ENCODERS 		LITERAL1
