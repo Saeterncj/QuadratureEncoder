@@ -1,5 +1,6 @@
-#include "QuadratureEncoder.h"
 #include <EnableInterrupt.h>
+#include "QuadratureEncoder.h"
+
 
 // initialize all instance of encoder to null.
 
