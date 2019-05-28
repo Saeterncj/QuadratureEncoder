@@ -1,6 +1,5 @@
-
+#include <EnableInterrupt.h> // be sure to install and include EnableInterrupt in the sketch
 #include <QuadratureEncoder.h>
-// must also have enableInterrupt.h library
 
 // Use any 2 pins for interrupt, this utilizes EnableInterrupt Library. 
 // Even analog pins can be used. A0 = 14,A1=15,..etc for arduino nano/uno
