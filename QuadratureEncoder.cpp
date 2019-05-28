@@ -1,3 +1,4 @@
+#define LIBCALL_ENABLEINTERRUPT
 #include <EnableInterrupt.h>
 #include "QuadratureEncoder.h"
 
